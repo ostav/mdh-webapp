@@ -1,0 +1,11 @@
+## Dependencies
+vendor
+
+## phpunit
+.phpunit.cache
+
+## IDEs
+.idea
+
+## other
+TODO.md
